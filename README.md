@@ -7,7 +7,7 @@
 
 A Flower Shop Website build with mainly HTML, CSS & JavaScript designed with Bootstrap.
 
-[Link for application](https://silly-trifle-597836.netlify.app/)
+[Link for application](https://alesya-superfin-flower-studio.netlify.app/)
 
 <!-- Goods -->
 ## Goods
