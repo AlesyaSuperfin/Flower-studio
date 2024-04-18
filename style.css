@@ -1,0 +1,57 @@
+.coverImg {
+    background-image: url(woman-holds-her-hand-festive-flower-arrangement-with-bright-chrysanthemum-flowers-festive-bouquet.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+.headerColor {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.sliderPosition {
+    position: relative;
+    left: auto;
+    right: 5%;
+    top: 60%;
+}
+
+.cardPrice {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#btnColor:hover {
+    background-color: #d3deca;
+    border-color: #d3deca;
+}
+
+.aColor {
+    color: gray;
+    margin: 5px;
+}
+
+.aColor:hover {
+    color: black;
+}
+
+#delivery {
+    background-color: #eff2ed;
+}
+
+.marketingWedding {
+    margin-top: 120px;
+}
+
+.greenCard {
+    background-color: #eff2ed;
+}
+
+#delivery {
+    scroll-padding-top: 100px;
+}
